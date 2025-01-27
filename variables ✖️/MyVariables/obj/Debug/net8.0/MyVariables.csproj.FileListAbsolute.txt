@@ -1,0 +1,15 @@
+D:\A\C#\variables ✖️\MyVariables\bin\Debug\net8.0\MyVariables.exe
+D:\A\C#\variables ✖️\MyVariables\bin\Debug\net8.0\MyVariables.deps.json
+D:\A\C#\variables ✖️\MyVariables\bin\Debug\net8.0\MyVariables.runtimeconfig.json
+D:\A\C#\variables ✖️\MyVariables\bin\Debug\net8.0\MyVariables.dll
+D:\A\C#\variables ✖️\MyVariables\bin\Debug\net8.0\MyVariables.pdb
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.AssemblyInfoInputs.cache
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.AssemblyInfo.cs
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.csproj.CoreCompileInputs.cache
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.sourcelink.json
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.dll
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\refint\MyVariables.dll
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.pdb
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\MyVariables.genruntimeconfig.cache
+D:\A\C#\variables ✖️\MyVariables\obj\Debug\net8.0\ref\MyVariables.dll
