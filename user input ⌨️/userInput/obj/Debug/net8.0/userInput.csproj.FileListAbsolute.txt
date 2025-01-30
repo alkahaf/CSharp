@@ -1,0 +1,15 @@
+D:\A\C#\user input ⌨️\userInput\bin\Debug\net8.0\userInput.exe
+D:\A\C#\user input ⌨️\userInput\bin\Debug\net8.0\userInput.deps.json
+D:\A\C#\user input ⌨️\userInput\bin\Debug\net8.0\userInput.runtimeconfig.json
+D:\A\C#\user input ⌨️\userInput\bin\Debug\net8.0\userInput.dll
+D:\A\C#\user input ⌨️\userInput\bin\Debug\net8.0\userInput.pdb
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.AssemblyInfoInputs.cache
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.AssemblyInfo.cs
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.csproj.CoreCompileInputs.cache
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.sourcelink.json
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.dll
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\refint\userInput.dll
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.pdb
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\userInput.genruntimeconfig.cache
+D:\A\C#\user input ⌨️\userInput\obj\Debug\net8.0\ref\userInput.dll
