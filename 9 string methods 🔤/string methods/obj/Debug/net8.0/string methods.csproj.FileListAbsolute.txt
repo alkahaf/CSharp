@@ -1,0 +1,15 @@
+D:\A\C#\9 string methods 🔤\string methods\bin\Debug\net8.0\string methods.exe
+D:\A\C#\9 string methods 🔤\string methods\bin\Debug\net8.0\string methods.deps.json
+D:\A\C#\9 string methods 🔤\string methods\bin\Debug\net8.0\string methods.runtimeconfig.json
+D:\A\C#\9 string methods 🔤\string methods\bin\Debug\net8.0\string methods.dll
+D:\A\C#\9 string methods 🔤\string methods\bin\Debug\net8.0\string methods.pdb
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.AssemblyInfoInputs.cache
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.AssemblyInfo.cs
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.csproj.CoreCompileInputs.cache
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.sourcelink.json
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.dll
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\refint\string methods.dll
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.pdb
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\string methods.genruntimeconfig.cache
+D:\A\C#\9 string methods 🔤\string methods\obj\Debug\net8.0\ref\string methods.dll

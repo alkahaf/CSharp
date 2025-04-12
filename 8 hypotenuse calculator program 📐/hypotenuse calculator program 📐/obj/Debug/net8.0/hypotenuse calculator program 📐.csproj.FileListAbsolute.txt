@@ -1,0 +1,15 @@
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\bin\Debug\net8.0\hypotenuse calculator program 📐.exe
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\bin\Debug\net8.0\hypotenuse calculator program 📐.deps.json
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\bin\Debug\net8.0\hypotenuse calculator program 📐.runtimeconfig.json
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\bin\Debug\net8.0\hypotenuse calculator program 📐.dll
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\bin\Debug\net8.0\hypotenuse calculator program 📐.pdb
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.AssemblyInfoInputs.cache
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.AssemblyInfo.cs
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.csproj.CoreCompileInputs.cache
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.sourcelink.json
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.dll
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\refint\hypotenuse calculator program 📐.dll
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.pdb
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\hypotenuse calculator program 📐.genruntimeconfig.cache
+D:\A\C#\8 hypotenuse calculator program 📐\hypotenuse calculator program 📐\obj\Debug\net8.0\ref\hypotenuse calculator program 📐.dll
