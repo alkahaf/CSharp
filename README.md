@@ -1,4 +1,4 @@
-# C# Full Course: Comprehensive Guide
+# C# Basic Guide
 
 This README provides an overview of the topics covered in the "C# Full Course" video tutorial. Use this guide to follow along or revisit specific sections for a deeper understanding.
 
