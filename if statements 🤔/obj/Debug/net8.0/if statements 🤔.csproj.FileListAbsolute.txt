@@ -1,0 +1,15 @@
+D:\A\C#\if statements 🤔\bin\Debug\net8.0\if statements 🤔.exe
+D:\A\C#\if statements 🤔\bin\Debug\net8.0\if statements 🤔.deps.json
+D:\A\C#\if statements 🤔\bin\Debug\net8.0\if statements 🤔.runtimeconfig.json
+D:\A\C#\if statements 🤔\bin\Debug\net8.0\if statements 🤔.dll
+D:\A\C#\if statements 🤔\bin\Debug\net8.0\if statements 🤔.pdb
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.AssemblyInfoInputs.cache
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.AssemblyInfo.cs
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.csproj.CoreCompileInputs.cache
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.sourcelink.json
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.dll
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\refint\if statements 🤔.dll
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.pdb
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\if statements 🤔.genruntimeconfig.cache
+D:\A\C#\if statements 🤔\obj\Debug\net8.0\ref\if statements 🤔.dll
