@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("if statements 🤔")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859785a916d90912714eb4610641f930b23448db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6da76c4b3920683eeca0345a8601ebcfc159ba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("if statements 🤔")]
 [assembly: System.Reflection.AssemblyTitleAttribute("if statements 🤔")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
