@@ -1,0 +1,15 @@
+D:\A\C#\logical operators  🔣\logical operators  🔣\bin\Debug\net8.0\logical operators  🔣.exe
+D:\A\C#\logical operators  🔣\logical operators  🔣\bin\Debug\net8.0\logical operators  🔣.deps.json
+D:\A\C#\logical operators  🔣\logical operators  🔣\bin\Debug\net8.0\logical operators  🔣.runtimeconfig.json
+D:\A\C#\logical operators  🔣\logical operators  🔣\bin\Debug\net8.0\logical operators  🔣.dll
+D:\A\C#\logical operators  🔣\logical operators  🔣\bin\Debug\net8.0\logical operators  🔣.pdb
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.AssemblyInfoInputs.cache
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.AssemblyInfo.cs
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.csproj.CoreCompileInputs.cache
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.sourcelink.json
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.dll
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\refint\logical operators  🔣.dll
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.pdb
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\logical operators  🔣.genruntimeconfig.cache
+D:\A\C#\logical operators  🔣\logical operators  🔣\obj\Debug\net8.0\ref\logical operators  🔣.dll
