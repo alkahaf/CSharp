@@ -1,0 +1,15 @@
+D:\A\C#\for loops 🔁\for loops 🔁\bin\Debug\net8.0\for loops 🔁.exe
+D:\A\C#\for loops 🔁\for loops 🔁\bin\Debug\net8.0\for loops 🔁.deps.json
+D:\A\C#\for loops 🔁\for loops 🔁\bin\Debug\net8.0\for loops 🔁.runtimeconfig.json
+D:\A\C#\for loops 🔁\for loops 🔁\bin\Debug\net8.0\for loops 🔁.dll
+D:\A\C#\for loops 🔁\for loops 🔁\bin\Debug\net8.0\for loops 🔁.pdb
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.AssemblyInfoInputs.cache
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.AssemblyInfo.cs
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.csproj.CoreCompileInputs.cache
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.sourcelink.json
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.dll
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\refint\for loops 🔁.dll
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.pdb
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\for loops 🔁.genruntimeconfig.cache
+D:\A\C#\for loops 🔁\for loops 🔁\obj\Debug\net8.0\ref\for loops 🔁.dll
