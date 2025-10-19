@@ -1,0 +1,15 @@
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.AssemblyInfoInputs.cache
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.AssemblyInfo.cs
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.csproj.CoreCompileInputs.cache
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.sourcelink.json
+D:\A\C#\nested loops ➿\nested loops ➿\bin\Debug\net8.0\nested loops ➿.exe
+D:\A\C#\nested loops ➿\nested loops ➿\bin\Debug\net8.0\nested loops ➿.deps.json
+D:\A\C#\nested loops ➿\nested loops ➿\bin\Debug\net8.0\nested loops ➿.runtimeconfig.json
+D:\A\C#\nested loops ➿\nested loops ➿\bin\Debug\net8.0\nested loops ➿.dll
+D:\A\C#\nested loops ➿\nested loops ➿\bin\Debug\net8.0\nested loops ➿.pdb
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.dll
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\refint\nested loops ➿.dll
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.pdb
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\nested loops ➿.genruntimeconfig.cache
+D:\A\C#\nested loops ➿\nested loops ➿\obj\Debug\net8.0\ref\nested loops ➿.dll
