@@ -1,0 +1,15 @@
+D:\A\C#\while loops ♾️\while loops ♾️\bin\Debug\net8.0\while loops ♾️.exe
+D:\A\C#\while loops ♾️\while loops ♾️\bin\Debug\net8.0\while loops ♾️.deps.json
+D:\A\C#\while loops ♾️\while loops ♾️\bin\Debug\net8.0\while loops ♾️.runtimeconfig.json
+D:\A\C#\while loops ♾️\while loops ♾️\bin\Debug\net8.0\while loops ♾️.dll
+D:\A\C#\while loops ♾️\while loops ♾️\bin\Debug\net8.0\while loops ♾️.pdb
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.AssemblyInfoInputs.cache
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.AssemblyInfo.cs
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.csproj.CoreCompileInputs.cache
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.sourcelink.json
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.dll
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\refint\while loops ♾️.dll
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.pdb
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\while loops ♾️.genruntimeconfig.cache
+D:\A\C#\while loops ♾️\while loops ♾️\obj\Debug\net8.0\ref\while loops ♾️.dll
