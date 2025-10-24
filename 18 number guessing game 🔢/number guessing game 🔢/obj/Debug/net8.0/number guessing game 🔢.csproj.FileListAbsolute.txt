@@ -1,0 +1,15 @@
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\bin\Debug\net8.0\number guessing game 🔢.exe
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\bin\Debug\net8.0\number guessing game 🔢.deps.json
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\bin\Debug\net8.0\number guessing game 🔢.runtimeconfig.json
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\bin\Debug\net8.0\number guessing game 🔢.dll
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\bin\Debug\net8.0\number guessing game 🔢.pdb
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.AssemblyInfoInputs.cache
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.AssemblyInfo.cs
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.csproj.CoreCompileInputs.cache
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.sourcelink.json
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.dll
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\refint\number guessing game 🔢.dll
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.pdb
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\number guessing game 🔢.genruntimeconfig.cache
+D:\A\C#\number guessing game 🔢\number guessing game 🔢\obj\Debug\net8.0\ref\number guessing game 🔢.dll
